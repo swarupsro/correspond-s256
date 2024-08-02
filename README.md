@@ -1,2 +1,2 @@
 # correspond s256
- Converting MD5 hashes to SHA hashes using VirusTotal
+ Converting hashes to SHA-256 hashes using VirusTotal
