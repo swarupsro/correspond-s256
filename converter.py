@@ -1,7 +1,7 @@
 import os
 import requests
 
-api_key = 'input the key from virus total'
+api_key = 'input api key from virustotal'
 
 input_filename = 'hashes.txt'
 output_filename = 'sha256_hashes.txt'
